@@ -119,7 +119,23 @@ For hiring conversations, I can walk through selected technical decisions, debug
 
 ## Screenshots
 
-A curated set of product screenshots will live in [screenshots/](screenshots/README.md). Screenshots are selected to demonstrate product functionality without exposing private operational information.
+### League Dashboard
+
+![FPL Banter League Dashboard](screenshots/League%20Dashboard.jpg)
+
+### Live Standings
+
+![FPL Banter Live Standings](screenshots/Live%20Standings.jpg)
+
+### Banter Page
+
+![FPL Banter Banter Page](screenshots/Banter%20Page.jpg)
+
+### MOTM
+
+![FPL Banter MOTM](screenshots/MOTM.jpg)
+
+These screenshots show selected parts of the live product while keeping the private production codebase and sensitive operational details out of the public repository.
 
 ---
 
